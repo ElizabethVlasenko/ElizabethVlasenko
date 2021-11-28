@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElizabethVlasenko
 - 👀 I’m interested in drawing, coding and playing team games!
 - 🌱 I’m currently learning React + Redux
-- 📫 How to reach me on linkedin: https://www.linkedin.com/in/yelyzaveta-vlasenko-060598/
+- 📫 How to reach me: https://www.linkedin.com/in/yelyzaveta-vlasenko-060598/
 
 <!---
 ElizabethVlasenko/ElizabethVlasenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
