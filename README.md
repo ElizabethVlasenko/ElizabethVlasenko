@@ -4,7 +4,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/yelyzaveta-vlasenko-060598/
 - 💻 You can view my websites here: 
 - air-quality: https://elizabethvlasenko.github.io/air-quality/
-- vue-films: https://vue-films.herokuapp.com/
 - react-quiz: https://react-quiz-ad454.web.app/
 
 <!---
