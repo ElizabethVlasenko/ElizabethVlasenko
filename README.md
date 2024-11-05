@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElizabethVlasenko
-- 🌱 I’m currently working on advanced React projects
+- 🌱 I’m currently working on advanced React.js/Next.js projects
 - 👀 I’m interested in drawing, coding and playing team games!
 - 📫 How to reach me: https://www.linkedin.com/in/yelyzaveta-vlasenko-060598/
 - 💻 You can view my project websites here: 
